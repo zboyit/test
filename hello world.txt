@@ -1,9 +1,1 @@
-hello world
-<<<<<<< HEAD
-text 2
-line 3
-line 4
-line 5
-=======
-text 2
->>>>>>> parent of 6b32bdf... line 4
+line 1
